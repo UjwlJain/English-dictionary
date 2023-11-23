@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    display: flex;
+    min-height: 78vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(60, 198, 198);
+}
+.container{
+    background-color: rgba(255,255,255,0.4);
+    padding:20px 15px;
+    border-radius: 3.5px;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    margin:7px 7px;
+    width:251px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.heading{
+    color: blueviolet;
+}
+#audio{
+    width:209px;
+    background-color: beige;
+    border-radius: 50px;
+}
+#input{
+    height:30px;
+    width:167px;
+    color:black;
+    padding: 0 32px;
+    font-weight: bold;
+    border-radius: 14px;
+}
